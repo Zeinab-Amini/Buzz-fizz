@@ -1,3 +1,9 @@
+In this project, there is a range from 1, 100
+If the number is divisble by three it would print fizz.
+If it is divisible by 5 it will print buzz
+And if it is both, then it will print buzzfizz. 
+
+
 ## FizzBuzz
 
 # UPDATE
